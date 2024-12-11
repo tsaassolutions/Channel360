@@ -1,9 +1,7 @@
 # Termos usados Channel 360
 
-## Token de Acesso
-
-As APIs de aplicativos são projetadas para interagir com uma conta  Channel 360
- da perspectiva do usuário. Portanto, para integrar aplicativos e se autenticar nessas APIs, você precisará de um usuário `access_token`, que pode ser obtido nas configurações do seu perfil.
+## Token de Acesso 
+As APIs de aplicativos são projetadas para interagir com uma conta  Channel 360 da perspectiva do usuário. Portanto, para integrar aplicativos e se autenticar nessas APIs, você precisará de um usuário `access_token`, que pode ser obtido nas configurações do seu perfil.
 
 ## Administrador (Administrador)
 
@@ -19,13 +17,11 @@ Um agente pode se definir como `Online`, `Busy`, `Offline` por meio de suas conf
 
 ## API
 
-As APIs (Interface de Programação de Aplicativo) no  Channel 360
- permitem conectar mais sistemas externos do que a IU oferece.
+As APIs (Interface de Programação de Aplicativo) no  Channel 360 permitem conectar mais sistemas externos do que a IU oferece.
 
 ## Formulários
 
-Esses são aplicativos externos integrados nativamente ao  Channel 360
-. Configurá-los permite aprimorar seu conjunto de ferramentas de engajamento do cliente. Por exemplo, você pode construir um chatbot usando nossa integração nativa com o aplicativo Dialogflow.
+Esses são aplicativos externos integrados nativamente ao  Channel 360. Configurá-los permite aprimorar seu conjunto de ferramentas de engajamento do cliente. Por exemplo, você pode construir um chatbot usando nossa integração nativa com o aplicativo Dialogflow.
 
 ## Artigos Arquivados (Central de Ajuda)
 
@@ -58,8 +54,7 @@ Você pode criar bots para automatizar algumas partes padrão de uma conversa, c
 ## Horário Comercial
 
 Você pode definir o de qualquer canal/caixa de entrada no  Channel 360
-. Assim, sempre que seus agentes associados a uma caixa de entrada específica estiverem fora do horário de trabalho, o  Channel 360
- mostrará uma mensagem personalizada ao cliente.
+. Assim, sempre que seus agentes associados a uma caixa de entrada específica estiverem fora do horário de trabalho, o  Channel 360 mostrará uma mensagem personalizada ao cliente.
 
 ## Campanhas
 
@@ -115,12 +110,11 @@ Um artigo que é um trabalho em andamento, mas não publicado, é conhecido como
 
 ## Rascunho de Resposta
 
-Se você estiver redigindo uma resposta ou enviando uma nota privada para um colega de equipe e sair da tela ou até mesmo atualizar a página, seu texto estará exatamente onde você o deixou.  Channel 360
- salvará os dados e preservará suas mensagens não enviadas como rascunhos. Isso é conhecido como rascunhos de respostas.
+Se você estiver redigindo uma resposta ou enviando uma nota privada para um colega de equipe e sair da tela ou até mesmo atualizar a página, seu texto estará exatamente onde você o deixou. Channel 360 salvará os dados e preservará suas mensagens não enviadas como rascunhos. Isso é conhecido como rascunhos de respostas.
 
 ## Notificações por E-mail
 
- Channel 360 envia um e-mail sempre que uma atividade específica ocorre em sua conta, como uma nova conversa sendo criada, uma nova conversa sendo atribuída a você, etc. Você pode personalizar suas preferências de notificações por e-mail nas configurações do seu perfil.
+Channel 360 envia um e-mail sempre que uma atividade específica ocorre em sua conta, como uma nova conversa sendo criada, uma nova conversa sendo atribuída a você, etc. Você pode personalizar suas preferências de notificações por e-mail nas configurações do seu perfil.
 
 ## Tempo de Primeira Resposta
 
@@ -153,7 +147,7 @@ Qualquer nova mensagem enviada por um cliente em uma mensagem recebida.
 
 ## Integrações
 
- Channel 360 tem um conjunto de aplicativos integrados nativamente que funcionam perfeitamente com  Channel 360  e aprimoram sua experiência geral. Pára, por exemplo, você pode integrar com o Slack para gerenciar suas conversas a partir daí!
+Channel 360 tem um conjunto de aplicativos integrados nativamente que funcionam perfeitamente com  Channel 360  e aprimoram sua experiência geral. Pára, por exemplo, você pode integrar com o Slack para gerenciar suas conversas a partir daí!
 
 ## Base de Conhecimento
 
@@ -169,12 +163,11 @@ O suporte ao cliente por chat ao vivo é uma forma de os clientes interagirem co
 
 ## Macro
 
-Uma macro é um conjunto de ações salvas sequenciais, como rotular uma conversa, enviar uma transcrição de e-mail, enviar um anexo, etc., que você pode definir nas _configurações_ do  Channel 360
- . Você também pode disponibilizar uma macro pessoal ou disponível para uso da sua equipe. Você pode executar uma macro na barra lateral do bate-papo.
+Uma macro é um conjunto de ações salvas sequenciais, como rotular uma conversa, enviar uma transcrição de e-mail, enviar um anexo, etc., que você pode definir nas _configurações_ do  Channel 360. Você também pode disponibilizar uma macro pessoal ou disponível para uso da sua equipe. Você pode executar uma macro na barra lateral do bate-papo.
 
 ## Remarcação
 
- Channel 360 usa linguagem markdown em suas mensagens e artigos da Central de Ajuda.
+Channel 360 usa linguagem markdown em suas mensagens e artigos da Central de Ajuda.
 
 ## Menções
 
@@ -191,8 +184,7 @@ Você pode acompanhar muitas métricas relacionadas ao desempenho de suas conver
 
 ## SDK Móvel
 
-É um conjunto de ferramentas e recursos que os desenvolvedores podem usar para criar aplicativos móveis para sistemas operacionais móveis, como iOS ou Android. Possui uma coleção de bibliotecas e utilitários que podem ajudá-lo a integrar o  Channel 360
- com um aplicativo.
+É um conjunto de ferramentas e recursos que os desenvolvedores podem usar para criar aplicativos móveis para sistemas operacionais móveis, como iOS ou Android. Possui uma coleção de bibliotecas e utilitários que podem ajudá-lo a integrar o  Channel 360  com um aplicativo.
 
 ## Mudo
 
@@ -208,8 +200,7 @@ Um tipo de status de conversa que indica que uma conversa está pronta para ser 
 
 ## Mensagens Enviadas
 
-Quaisquer mensagens enviadas do painel do  Channel 360
- em uma mensagem de saída.
+Quaisquer mensagens enviadas do painel do  Channel 360 em uma mensagem de saída.
 
 ## Pendente
 
@@ -225,7 +216,8 @@ Notas privadas estão disponíveis na janela de conversa. Aqui, você pode discu
 
 ## Portal
 
-Uma única instância da Central de Ajuda é chamada de portal. Você pode criar vários portais a partir de uma única conta. Por exemplo, você pode ter dois portais para sua organização – um para manter a documentação do produto e outro para manter os processos internos. 
+Uma única instância da Central de Ajuda é chamada de portal. Você pode criar vários portais a partir de uma única conta. Por exemplo, você pode ter dois portais para sua organização – um para manter a documentação do produto e outro para manter os processos internos.
+
 ## Notificações via Push
 
 Se ativado, o  Channel 360 enviará notificações push sempre que ocorrer um evento específico. Exemplos de tais eventos incluem a criação de uma nova mensagem, a criação de uma conversa, etc. Personalize suas preferências nas configurações do perfil.
